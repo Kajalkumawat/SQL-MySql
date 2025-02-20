@@ -1,0 +1,9 @@
+data_defination_language.txt
+ddl is stands for data defination language 
+
+it have some important commands like :
+1) create 
+2)truncate 
+3)delete 
+
+how to create new data base : 
